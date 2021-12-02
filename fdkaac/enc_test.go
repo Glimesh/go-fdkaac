@@ -23,7 +23,7 @@
 package fdkaac_test
 
 import (
-	"github.com/kentuckyfriedtakahe/go-fdkaac/fdkaac"
+	"github.com/Glimesh/go-fdkaac/fdkaac"
 	"testing"
 )
 

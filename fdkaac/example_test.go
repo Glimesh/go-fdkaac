@@ -23,7 +23,7 @@ package fdkaac_test
 
 import (
 	"fmt"
-	"github.com/kentuckyfriedtakahe/go-fdkaac/fdkaac"
+	"github.com/Glimesh/go-fdkaac/fdkaac"
 )
 
 func ExampleAacDecoder_RAW() {

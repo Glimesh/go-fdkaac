@@ -2,7 +2,7 @@
 package main
 
 import (
-	_ "github.com/kentuckyfriedtakahe/go-fdkaac/fdkaac"
+	_ "github.com/Glimesh/go-fdkaac/fdkaac"
 )
 
 func main() {
