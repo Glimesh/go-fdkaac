@@ -23,7 +23,7 @@
 package fdkaac
 
 /*
-#cgo CFLAGS: -I/usr/include/fdk-aac/
+#cgo CFLAGS: -I/usr/include/fdk-aac/ -I/usr/local/include/fdk-aac/
 #cgo LDFLAGS: -lfdk-aac
 #include "aacenc_lib.h"
 
