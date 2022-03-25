@@ -23,9 +23,8 @@
 package fdkaac
 
 /*
-#cgo CFLAGS: -I/usr/include/fdk-aac/ -I/usr/local/include/fdk-aac/
-#cgo LDFLAGS: -lfdk-aac
-#include "aacenc_lib.h"
+#cgo pkg-config: fdk-aac
+#include "fdk-aac/aacenc_lib.h"
 
 typedef struct {
 	// the encoder handler.
